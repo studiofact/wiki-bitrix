@@ -5,6 +5,8 @@
 
 #### Регистрация и авторизация
 * [Пример формирования ссылок «Выйти» и «Регистрация».](https://github.com/studiofact/commonwiki/wiki/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA-%C2%AB%D0%92%D1%8B%D0%B9%D1%82%D0%B8%C2%BB-%D0%B8-%C2%AB%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%C2%BB.)
+* [Авторизация через соцсети без битриксовой модалки](https://github.com/studiofact/commonwiki/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D0%B8-%D0%B1%D0%B5%D0%B7-%D0%B1%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BC%D0%BE%D0%B4%D0%B0%D0%BB%D0%BA%D0%B8)
+* [Получить привязки пользователя к соцсетям](https://github.com/studiofact/commonwiki/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%BF%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D0%BA%D0%B8-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%BA-%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D1%8F%D0%BC)
 
 #### Поиск
 * [Ограничение области поиска одним инфоблоком](https://github.com/studiofact/commonwiki/wiki/%D0%9E%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0-%D0%BE%D0%B4%D0%BD%D0%B8%D0%BC-%D0%B8%D0%BD%D1%84%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC)
@@ -25,10 +27,12 @@
 
 #### Композит
 * [Композит и GEO IP — особенности работы](https://github.com/studiofact/commonwiki/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82-%D0%B8-GEO-IP-%E2%80%94-%D0%BE%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)
+* [Динамическая область вне шаблона компонента](https://github.com/studiofact/commonwiki/wiki/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C-%D0%B2%D0%BD%D0%B5-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0)
 
 #### AJAX
 * [bxajaxid уникальный идентификатор сессии для ajax](https://github.com/studiofact/commonwiki/wiki/bxajaxid-%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80-%D1%81%D0%B5%D1%81%D1%81%D0%B8%D0%B8-%D0%B4%D0%BB%D1%8F-ajax)
 * [Если слетает кастомное оформление при битриксовом аяксе](https://github.com/studiofact/commonwiki/wiki/%D0%95%D1%81%D0%BB%D0%B8-%D1%81%D0%BB%D0%B5%D1%82%D0%B0%D0%B5%D1%82-%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B8-%D0%B1%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81%D0%BE%D0%B2%D0%BE%D0%BC-%D0%B0%D1%8F%D0%BA%D1%81%D0%B5)
+* [Два одинаковых компонента на одной странице с включенным AJAX_MODE="Y"](https://github.com/studiofact/commonwiki/wiki/%D0%94%D0%B2%D0%B0-%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BA%D0%BE%D0%B2%D1%8B%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B5-%D1%81-%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC-AJAX_MODE=%22Y%22)
 
 #### Хлебные крошки
 * [Как добавить название товара в хлебные крошки?](https://github.com/studiofact/commonwiki/wiki/%D0%9A%D0%B0%D0%BA-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0-%D0%B2-%D1%85%D0%BB%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B8%3F)
@@ -57,6 +61,7 @@
 * [Получение id элемента по его символьному коду](https://github.com/studiofact/commonwiki/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-id-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0-%D0%BF%D0%BE-%D0%B5%D0%B3%D0%BE-%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%D1%83-%D0%BA%D0%BE%D0%B4%D1%83)
 * [Узнать путь по дереву от корня до раздела](https://github.com/studiofact/commonwiki/wiki/%D0%98%D0%BD%D1%84%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8:-%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BF%D1%83%D1%82%D1%8C-%D0%BF%D0%BE-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%83-%D0%BE%D1%82-%D0%BA%D0%BE%D1%80%D0%BD%D1%8F-%D0%B4%D0%BE-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0)
 * [Фильтрация по свойству типа дата время](https://github.com/studiofact/commonwiki/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D1%83-%D1%82%D0%B8%D0%BF%D0%B0-%D0%B4%D0%B0%D1%82%D0%B0-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F)
+* [Вывод похожих статей (dev.1c-bitrix.ru)](https://dev.1c-bitrix.ru/community/webdev/user/60622/blog/7126/)
 
 ##### Компоненты и шаблоны
 * [Шаблон компонента: как передать в script.js пусть к шаблону и не только его](https://github.com/studiofact/commonwiki/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0:-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%8C-%D0%B2-script.js-%D0%BF%D1%83%D1%81%D1%82%D1%8C-%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%83-%D0%B8-%D0%BD%D0%B5-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%B5%D0%B3%D0%BE)
