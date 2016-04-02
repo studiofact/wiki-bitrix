@@ -2,6 +2,7 @@
 * [Выводим любое содержание в header.php (функция SetViewTarget)](https://github.com/studiofact/commonwiki/wiki/%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D0%BC-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B5-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-header.php-(%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-SetViewTarget))
 * [Если SetViewTarget не работает в component_epilog.php](https://github.com/studiofact/commonwiki/wiki/%D0%95%D1%81%D0%BB%D0%B8-SetViewTarget-%D0%BD%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-%D0%B2-component_epilog.php)
 * [Событие OnEndBufferContent взамен отложенной функции (редактируем содержимое страницы при выводе)](https://github.com/studiofact/commonwiki/wiki/%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5-OnEndBufferContent-%D0%B2%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD-%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-(%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%BC%D0%BE%D0%B5-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B-%D0%BF%D1%80%D0%B8-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B5))
+* [Обход режима совместимости в IE](https://github.com/studiofact/commonwiki/wiki/%D0%9E%D0%B1%D1%85%D0%BE%D0%B4-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B0-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%B2-IE)
 
 ***
 
@@ -27,6 +28,7 @@
 ***
 
 #### Торговый каталог
+* [Добавление в корзину: нюансы](https://github.com/studiofact/commonwiki/wiki/%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BA%D0%BE%D1%80%D0%B7%D0%B8%D0%BD%D1%83:-%D0%BD%D1%8E%D0%B0%D0%BD%D1%81%D1%8B)
 * [По умолчанию включать галочку «НДС включен в цену» у новых товаров](https://github.com/studiofact/commonwiki/wiki/%D0%9F%D0%BE-%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D1%82%D1%8C-%D0%B3%D0%B0%D0%BB%D0%BE%D1%87%D0%BA%D1%83-%C2%AB%D0%9D%D0%94%D0%A1-%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD-%D0%B2-%D1%86%D0%B5%D0%BD%D1%83%C2%BB-%D1%83-%D0%BD%D0%BE%D0%B2%D1%8B%D1%85-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2)
 * [Изменение кода купонов на скидку при генерации](https://github.com/studiofact/commonwiki/wiki/%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B4%D0%B0-%D0%BA%D1%83%D0%BF%D0%BE%D0%BD%D0%BE%D0%B2-%D0%BD%D0%B0-%D1%81%D0%BA%D0%B8%D0%B4%D0%BA%D1%83-%D0%BF%D1%80%D0%B8-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8)
 * [Подписка на товар, если использовать компонент bitrix:sale.notice.product или SUBSCRIBE_URL](https://github.com/studiofact/commonwiki/wiki/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%82%D0%BE%D0%B2%D0%B0%D1%80,-%D0%B5%D1%81%D0%BB%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82-bitrix:sale.notice.product-%D0%B8%D0%BB%D0%B8-SUBSCRIBE_URL)
@@ -48,6 +50,7 @@
 * [bxajaxid уникальный идентификатор сессии для ajax](https://github.com/studiofact/commonwiki/wiki/bxajaxid-%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80-%D1%81%D0%B5%D1%81%D1%81%D0%B8%D0%B8-%D0%B4%D0%BB%D1%8F-ajax)
 * [Если слетает кастомное оформление при битриксовом аяксе](https://github.com/studiofact/commonwiki/wiki/%D0%95%D1%81%D0%BB%D0%B8-%D1%81%D0%BB%D0%B5%D1%82%D0%B0%D0%B5%D1%82-%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B8-%D0%B1%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81%D0%BE%D0%B2%D0%BE%D0%BC-%D0%B0%D1%8F%D0%BA%D1%81%D0%B5)
 * [Два одинаковых компонента на одной странице с включенным AJAX_MODE="Y"](https://github.com/studiofact/commonwiki/wiki/%D0%94%D0%B2%D0%B0-%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BA%D0%BE%D0%B2%D1%8B%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B5-%D1%81-%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC-AJAX_MODE=%22Y%22)
+* [Замена стандартного битриксового лоадера во время AJAX запросов](https://github.com/studiofact/commonwiki/wiki/%D0%97%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B1%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BB%D0%BE%D0%B0%D0%B4%D0%B5%D1%80%D0%B0-%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F-AJAX-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2)
 
 ***
 
@@ -58,11 +61,12 @@
 ***
 
 #### Обмен с 1С
-* [Управление активностью товаров при обмене](https://github.com/studiofact/commonwiki/wiki/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0-%D0%BF%D1%80%D0%B8-%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B5-%D1%81-1%D1%81)
+* [Управление активностью товара при обмене с 1с](https://github.com/studiofact/commonwiki/wiki/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0-%D0%BF%D1%80%D0%B8-%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B5-%D1%81-1%D1%81)
 * [Выгрузка из 1С в определенный инфоблок](https://github.com/studiofact/commonwiki/wiki/%D0%92%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%D0%B8%D0%B7-1%D0%A1-%D0%B2-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%84%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA)
 * [Добавление обработки статусов в выгрузке из 1С](https://github.com/studiofact/commonwiki/wiki/%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%BE%D0%B2-%D0%B2-%D0%B2%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5-%D0%B8%D0%B7-1%D0%A1.)
 * [Обновляем вес товара из свойства инфоблока по событию OnSuccessCatalogImport1C](Обновляем вес товара из свойства инфоблока по событию OnSuccessCatalogImport1C)
-* [Неполная выгрузка — особенности деактивации и удаления элементов](https://github.com/studiofact/commonwiki/wiki/%D0%9D%D0%B5%D0%BF%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F-%D0%B2%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%E2%80%94-%D0%BE%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D0%B8-%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
+* [Мультивалютность в умном фильтре](https://github.com/studiofact/commonwiki/wiki/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-%D1%83%D0%BC%D0%BD%D0%BE%D0%BC-%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D0%B5)
+
 
 ***
 
@@ -84,6 +88,7 @@
 
 #### Редиректы
 * [Метод редиректа БЕЗ смены URL (url rewrite)](https://github.com/studiofact/commonwiki/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4-%D1%80%D0%B5%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%B0-%D0%91%D0%95%D0%97-%D1%81%D0%BC%D0%B5%D0%BD%D1%8B-URL-(url-rewrite))
+* [Удаление лишних слешей из УРЛ](https://github.com/studiofact/commonwiki/wiki/%D0%A3%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BB%D0%B8%D1%88%D0%BD%D0%B8%D1%85-%D1%81%D0%BB%D0%B5%D1%88%D0%B5%D0%B9-%D0%B8%D0%B7-URL)
 
 ***
 
@@ -116,4 +121,5 @@
 ***
 
 #### Разное полезное
+* [Принудительное повторное обновление ядра Битрикс](https://github.com/studiofact/commonwiki/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%83%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%8F%D0%B4%D1%80%D0%B0-Bitrix)
 * [Если удалили файл crontab](https://github.com/studiofact/commonwiki/wiki/%D0%95%D1%81%D0%BB%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B8%D0%BB%D0%B8-%D1%84%D0%B0%D0%B9%D0%BB-crontab)
