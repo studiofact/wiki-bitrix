@@ -1,4 +1,4 @@
-###[Материалы для подготовки к экзаменам Битрикс](https://github.com/studiofact/wiki-bitrix/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%D0%BC-%D0%91%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81)
+### [Материалы для подготовки к экзаменам Битрикс](https://github.com/studiofact/wiki-bitrix/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%D0%BC-%D0%91%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81)
 
 #### Header, footer, разметка страниц
 * [Выводим любое содержание в header.php (функция SetViewTarget)](https://github.com/studiofact/commonwiki/wiki/%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D0%BC-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B5-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-header.php-(%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-SetViewTarget))
@@ -118,6 +118,11 @@
 
 #### CSV, XML, YML
 * [Работа с CSV средствами битрикс](https://github.com/studiofact/commonwiki/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-CSV-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D0%BC%D0%B8-%D0%B1%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81)
+
+***
+
+#### Административная панель
+- [Своя кнопка в визуальном редакторе Битрикс](/wiki/visual_editor_button.md)
 
 ***
 
